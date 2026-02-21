@@ -1,6 +1,4 @@
-# shapes.py
 import time
-
 
 def draw_square(t):
     t.fillcolor('red')
